@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temp files
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+
+*.pbix
+data/*.csv
+
+powerbi/zomato_powerbi.csv

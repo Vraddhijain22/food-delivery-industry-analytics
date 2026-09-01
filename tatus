@@ -1,0 +1,8 @@
+[33mcommit d9ab539f4bbad14ade1f14b488464da0a6c23a32[m
+Author: Jain <vraddhi.jain@capgemini.com>
+Date:   Tue Sep 1 11:49:57 2026 +0530
+
+    Initial Food Delivery Analytics Project
+
+ powerbi/zomato_powerbi.csv | 17152 [32m+++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 17152 insertions(+)
